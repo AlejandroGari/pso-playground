@@ -2,6 +2,7 @@
 
 An interactive Streamlit application that demonstrates Particle Swarm Optimization (PSO) on various benchmark functions. Explore and visualize how PSO converges on different objective functions!
 
+There is a demo 😁 [PSO playground](https://pso-playground.streamlit.app/)
 ## Overview
 
 This repository contains a Streamlit app that showcases the power of Particle Swarm Optimization (PSO) by applying it to several test functions, including:
